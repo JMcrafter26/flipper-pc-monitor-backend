@@ -8,3 +8,7 @@ Please note that GPU info is only displayed on Nvidia cards
 ### Screenshot
 
 ![app](.github/screenshots/app.png)
+
+### Windows Build File
+
+You can find the windows build file in the [releases](https://github.com/JMcrafter26/flipper-pc-monitor-backend/releases/tag/test) section
