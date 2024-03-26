@@ -21,6 +21,7 @@ Cargo.lock
 /target/release/deps
 /target/release/build
 /target/release/incremental
+/target/release/flipper-pc-monitor-backend.d
 /target/release/examples
 /target/release/.cargo-lock
 /target/.rustc_info.json
